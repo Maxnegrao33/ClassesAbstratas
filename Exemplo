@@ -1,0 +1,12 @@
+public abstract class Animal {
+		public abstract void falar();
+	}
+
+	//Definindo a herança da classe Abstrata
+	public abstract gato extends Animal {
+		public abstract void miar()
+	}
+
+	public abstract cachorro extends Animal {
+		public abstract void latir()
+	}
